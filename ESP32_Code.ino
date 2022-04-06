@@ -1,8 +1,8 @@
 /***************** START OF MINER CONFIGURATION SECTION *****************/
-const char *SSID = "IbbeIdHome";
-const char *WIFI_PASS = "bambang12renariyanti";
-const char *DUCO_USER = "iHans";
-const char *RIG_IDENTIFIER = "HA-03";
+const char *SSID = "your SSID";
+const char *WIFI_PASS = "your WiFi Pass";
+const char *DUCO_USER = "your Username";
+const char *RIG_IDENTIFIER = "your RigName";
 
 #define LED_BUILTIN 2
 #define BLINK_SHARE_FOUND    1
