@@ -1,5 +1,5 @@
 # Esp32-manual-pool
-Manual pool for Esp32 miner
+Manual pool for Esp32 and Esp8266 miner
 
 
 Find this!
